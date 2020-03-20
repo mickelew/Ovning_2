@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 redigerad
+=======
+dahsdjasdajhsdhja
+dashdjasdhjsad
+>>>>>>> aa6741a9b7adbc0462aad9daedefc241f271c46d
